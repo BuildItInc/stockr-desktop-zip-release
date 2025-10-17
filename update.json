@@ -1,5 +1,5 @@
 ﻿{
-  "latest_version": "1.0.5",
-  "download_url": "https://builditinc.github.io/stockr-desktop-zip-release/downloads/FunworkSetup_1.0.5.exe",
-  "changelog": "・電子カルテ連携の安定性を改善しました\n・軽微な不具合を修正しました"
+  "latest_version": "1.0",
+  "download_url": "https://builditinc.github.io/stockr-desktop-zip-release/downloads/FunworkSetup_1.0.exe",
+  "changelog": "初回リリース"
 }
